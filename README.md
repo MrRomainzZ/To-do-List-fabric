@@ -1,4 +1,4 @@
-# Fabric Example Mod
+# Fabric Mod "To-do List"
 
 ## Setup
 
